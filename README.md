@@ -1,6 +1,6 @@
 # Welcome to AnonKryptiQuz's GitHub!
 
-I'm **AnonKryptiQuz**, a hacker and cybersecurity enthusiast pushing the boundaries of digital security.
+I'm **AnonKryptiQuz**, a hacker and cybersecurity enthusiast pushing the boundaries of digital security. With a hacker mindset, I specialize in discovering vulnerabilities, crafting exploit tools, and dissecting systems to better understand and challenge the security landscape. My mission is to expose weaknesses, sharpen my skills, and help others fortify their defences.
 
 ## 🔧 What I Do
 - **Developing cutting-edge tools** for cybersecurity and hacking.
