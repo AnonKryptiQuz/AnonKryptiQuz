@@ -12,7 +12,7 @@ I'm **AnonKryptiQuz**, a hacker and cybersecurity enthusiast pushing the boundar
 - **[ICU-WP](https://github.com/AnonKryptiQuz/ICU-WP)**: A Flask-based WordPress username enumeration tool. It detects WordPress sites and uses methods like author URL checks, REST API queries, and user detail endpoints to find usernames.
 
 ## 🌟 Featured Project
-- **[Lostxlso](https://github.com/coffinsp/lostools)**: A powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS).
+- **[Lostxlso aka. xlsNinja](https://github.com/coffinsp/lostools)**: A powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS).
 - **[NetSifter](https://github.com/coffinsp/LostXtools)**: A robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various website analysis and network reconnaissance tasks.
 
 ## 📫 Connect in the Shadows
