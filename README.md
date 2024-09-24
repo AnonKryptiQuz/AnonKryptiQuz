@@ -7,9 +7,9 @@ I'm **AnonKryptiQuz**, a hacker and cybersecurity enthusiast pushing the boundar
 - **Crafting cutting-edge hacking tools** designed to challenge and break through security defences.
 - **Engaging in hands-on hacking** in my spare time to push my limits and refine my skills.
 
-## 👾 AnonKryptiQuz's Arsenal
+## 👾 AnonKryptiQuz's Hacking Arsenal
 - **[Xploitra](https://github.com/AnonKryptiQuz/Xploitra)**: A powerful reverse shell payload generator for educational and security testing. It offers customizable payloads with advanced obfuscation and session management, making it ideal for simulating real-world attack scenarios and assessing system security.
-- **[ICU-WP](https://github.com/AnonKryptiQuz/ICU-WP)**: A Flask-based WordPress username enumeration tool. It detects WordPress sites and uses methods like author URL checks, REST API queries, and user detail endpoints to find usernames.
+- **[ICU-WP](https://github.com/AnonKryptiQuz/ICU-WP)**: A WordPress username enumeration tool. It detects WordPress sites and uses methods like author URL checks, REST API queries, and user detail endpoints to find usernames.
 - **[ScriptoX](https://github.com/AnonKryptiQuz/ScriptoX)**: A versatile tool that enables users to create SVG and PDF files with embedded JavaScript code. Designed for educational and testing purposes, it helps security researchers and developers explore the functionalities and implications of embedded scripts in SVG and PDF documents.
 - **[Defacement](https://github.com/AnonKryptiQuz/Defacement)**: A GitHub Pages site that creatively demonstrates website defacement. Please note that this project is intended solely for educational and artistic purposes.
 
