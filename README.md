@@ -3,7 +3,7 @@
 I'm **AnonKryptiQuz**, a hacker and cybersecurity enthusiast pushing the boundaries of digital security. With a hacker mindset, I specialize in discovering vulnerabilities, crafting exploit tools, and dissecting systems to understand better and challenge the security landscape. I aim to expose weaknesses, sharpen my skills, and help others fortify their defences.
 
 ## 🔧 What I Do
-- **As a hacker, conducting advanced security research** to expose vulnerabilities and enhance protection strategies.
+- **As an ethical hacker, conducting advanced security research** to expose vulnerabilities and enhance protection strategies.
 - **Crafting cutting-edge hacking tools** designed to challenge and break through security defences.
 - **Engaging in hands-on hacking** in my spare time to push my limits and refine my skills.
 
