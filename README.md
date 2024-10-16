@@ -17,7 +17,7 @@ I'm AnonKryptiQuz, a passionate hacker and cybersecurity enthusiast dedicated to
 
 ## 🌟 Featured Project
 - **[LOXS](https://github.com/coffinxp/loxs)**: A powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS).
-- **[NetSifter](https://github.com/coffinsp/LostXtools)**: A robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various website analysis and network reconnaissance tasks.
+- **[NetSifter](https://github.com/coffinxp/LostXtools)**: A robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering. With a user-friendly interface, NetSifter simplifies various website analysis and network reconnaissance tasks.
 
 ## 📫 Connect in the Shadows
 - **[X (formerly Twitter)](https://x.com/AnonKryptiQuz)**
