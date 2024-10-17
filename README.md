@@ -14,7 +14,6 @@ I'm AnonKryptiQuz, a passionate hacker and cybersecurity enthusiast dedicated to
 - **[ScriptoX](https://github.com/AnonKryptiQuz/ScriptoX)**: A versatile tool that enables users to create SVG and PDF files with embedded JavaScript code. Designed for educational and testing purposes, it helps security researchers and developers explore the functionalities and implications of embedded scripts in SVG and PDF documents.
 - **[Defacement](https://github.com/AnonKryptiQuz/Defacement)**: A GitHub Pages site that creatively demonstrates website defacement. Please note that this project is intended solely for educational and artistic purposes.
 - **[CoupDeWeb](https://github.com/AnonKryptiQuz/CoupDeWeb)**: An automated web vulnerability scanner designed for security researchers and developers. It scans for potentially vulnerable endpoints, targeting various types of vulnerabilities such as XSS, SQL Injection, and more.
-- **[TorrentSpyder](https://github.com/AnonKryptiQuz/TorrentSpyder)**: A command-line utility designed to retrieve Torrent Download History based on a specified IP address.
 
 ## 🌟 Featured Project
 - **[LOXS](https://github.com/coffinxp/loxs)**: A powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS).
