@@ -16,6 +16,7 @@ I'm AnonKryptiQuz, a passionate hacker and cybersecurity enthusiast dedicated to
 - **[CoupDeWeb](https://github.com/AnonKryptiQuz/CoupDeWeb)**: An automated web vulnerability scanner designed for security researchers and developers. It scans for potentially vulnerable endpoints, targeting vulnerabilities such as XSS, SQL Injection, and more.
 - **[GitIntel](https://github.com/AnonKryptiQuz/GitIntel)**: A robust GitHub OSINT tool crafted to reveal concealed insights from GitHub repositories and user profiles. Its capabilities make it an invaluable resource for ethical hacking, security assessments, and intelligence gathering in the realm of software development.
 - **[TorrentSpyder](https://github.com/AnonKryptiQuz/TorrentSpyder)**: A command-line utility designed to retrieve Torrent Download History based on a specified IP address.
+- **[ShoDam](https://github.com/AnonKryptiQuz/ShoDam)**: is a simple and effective bookmarklet designed to extract IP addresses from Shodan search results with a single click.
 
 ## 🌟 Featured Project
 - **[LOXS](https://github.com/coffinxp/loxs)**: A powerful and versatile multi-vulnerability scanner designed to detect various web application vulnerabilities, including Local File Inclusion (LFI), Open Redirects (OR), SQL Injection (SQLi), and Cross-Site Scripting (XSS).
