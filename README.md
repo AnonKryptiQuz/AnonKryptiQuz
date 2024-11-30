@@ -27,6 +27,7 @@ Here’s a showcase of some of my most innovative tools:
 | **[GitIntel](https://github.com/AnonKryptiQuz/GitIntel)**      | A robust GitHub OSINT tool crafted to **reveal concealed insights from GitHub repositories and user profiles.** Its capabilities make it an invaluable resource for ethical hacking, security assessments, and intelligence gathering in software development.                |
 | **[TorrentSpyder](https://github.com/AnonKryptiQuz/TorrentSpyder)** | A command-line utility designed to **retrieve Torrent Download History** based on a specified IP address.             |
 | **[ShoDam](https://github.com/AnonKryptiQuz/ShoDam)**        | A simple and effective bookmarklet designed to **extract IP addresses from Shodan search** results with a single click.               |
+| **[BeeXSS](https://github.com/AnonKryptiQuz/BeeXSS)**        | A specialized automated tool designed to detect Blind XSS (Cross-Site Scripting) vulnerabilities in web applications.               |
 | **[RocketFlare](https://github.com/AnonKryptiQuz/RocketFlare)**        | A is a tool that scans websites for vulnerabilities in Cloudflare's Rocket Loader. It **detects insecure HTML injection**, which can expose websites to potential exploitation and security risks.               |
 
 ---
