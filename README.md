@@ -30,6 +30,7 @@ Here’s a showcase of some of my most innovative tools:
 | **[BeeXSS](https://github.com/AnonKryptiQuz/BeeXSS)**        | A specialized automated tool designed to detect Blind XSS (Cross-Site Scripting) vulnerabilities in web applications.               |
 | **[RocketFlare](https://github.com/AnonKryptiQuz/RocketFlare)**        | A is a tool that scans websites for vulnerabilities in Cloudflare's Rocket Loader. It **detects insecure HTML injection**, which can expose websites to potential exploitation and security risks.               |
 | **[DeConfigro](https://github.com/AnonKryptiQuz/DeConfigro)**        | A tool that scans WordPress websites for the WordPress Setup Config Vulnerability. If exposed, this page indicates an incomplete installation and can be exploited, posing a security risk.               |
+| **[Injectra](https://github.com/AnonKryptiQuz/Injectra)**        | A Python-based tool for injecting custom payloads into various file types using their magic numbers. It supports file types like zip, rar, docx, jpg, and more, allowing for customizable payloads. It ensures seamless payload injection while maintaining the integrity of the original file.               |
 
 ---
 
