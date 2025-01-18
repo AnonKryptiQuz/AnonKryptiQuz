@@ -75,7 +75,7 @@ Together, we strive to push boundaries, share knowledge, and inspire the cyberse
 ## 📫 **Connect in the Shadows**
 
 - **X (formerly Twitter):** [AnonKryptiQuz](https://x.com/AnonKryptiQuz)  
-(*Hack smart, stay ethical and remain in the shadows.*)
+(*Hack smart and remain in the shadows.*)
 
 ---
 
