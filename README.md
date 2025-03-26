@@ -34,13 +34,10 @@ Here’s a showcase of some of my most innovative tools:
 | **[TorrentSpyder](https://github.com/AnonKryptiQuz/TorrentSpyder)** | A command-line utility designed to **retrieve Torrent Download History** based on a specified IP address.             |
 | **[ShoDam](https://github.com/AnonKryptiQuz/ShoDam)**        | A simple and effective bookmarklet designed to **extract IP addresses from Shodan search** results with a single click.               |
 | **[BeeXSS](https://github.com/AnonKryptiQuz/BeeXSS)**        | A specialized automated tool designed to **detect Blind XSS (Cross-Site Scripting)** vulnerabilities in web applications.               |
-| **[RocketFlare](https://github.com/AnonKryptiQuz/RocketFlare)**        | A tool that scans websites for vulnerabilities in Cloudflare's Rocket Loader. It **detects insecure HTML injection**, which can expose websites to potential exploitation and security risks.               |
 | **[DeConfigro](https://github.com/AnonKryptiQuz/DeConfigro)**        | A tool that scans WordPress websites for the **WordPress Setup Config Vulnerability.** If exposed, this page indicates an incomplete installation and can be exploited, posing a security risk.               |
 | **[Injectra](https://github.com/AnonKryptiQuz/Injectra)**        | A Python-based tool for **injecting custom payloads** into various file types using their **magic numbers.** It supports file types like zip, rar, docx, jpg, and more, allowing for customizable payloads. It ensures seamless payload injection while maintaining the integrity of the original file.               |
 | **[TimeVault](https://github.com/AnonKryptiQuz/TimeVault)**        | A specialized automated tool designed to **detect potential information disclosure vulnerabilities** in web applications by leveraging archived URLs from the Wayback Machine.               |
-| **[XploitInjectra](https://github.com/AnonKryptiQuz/XploitInjectra)**        | An automated tool designed to identify **Reflective Cross-Site Scripting (XSS)** vulnerabilities in web applications. It scans URL parameters to detect XSS vulnerabilities where malicious scripts are injected and executed within the user's browser.               |
 | **[XSSGAI](https://github.com/AnonKryptiQuz/XSSGAI)**        | A **first-ever AI-powered XSS (Cross-Site Scripting) payload generator**. Leveraging machine learning and deep learning techniques, it creates novel payloads based on patterns learned from a dataset of real-world XSS attacks. This groundbreaking tool is designed to assist security researchers and ethical hackers in identifying and mitigating potential XSS vulnerabilities by generating diverse and sophisticated attack vectors.              |
-| **[G-CaptchaBot](https://github.com/AnonKryptiQuz/G-CaptchaBot)**        | A command-line utility designed to automatically solve **Google reCAPTCHA** audio challenges. The tool interacts with **reCAPTCHA elements**, simulates **human-like behavior**, and bypasses **Google's verification system** for **educational, research, and security testing purposes**.              |
 
 ---
 
@@ -52,14 +49,6 @@ A powerful and versatile **multi-vulnerability scanner** designed to detect vari
 - Open Redirects (OR)
 - SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
-
-### **[NetSifter](https://github.com/coffinxp/LostXtools)**
-A robust and versatile **networking tool** for comprehensive:
-- Web enumeration
-- Scanning
-- Information gathering
-
-Its user-friendly interface simplifies website analysis and network reconnaissance tasks.
 
 ---
 
