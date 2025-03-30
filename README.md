@@ -38,6 +38,7 @@ Here’s a showcase of some of my most innovative tools:
 | **[Injectra](https://github.com/AnonKryptiQuz/Injectra)**        | A Python-based tool for **injecting custom payloads** into various file types using their **magic numbers.** It supports file types like zip, rar, docx, jpg, and more, allowing for customizable payloads. It ensures seamless payload injection while maintaining the integrity of the original file.               |
 | **[TimeVault](https://github.com/AnonKryptiQuz/TimeVault)**        | A specialized automated tool designed to **detect potential information disclosure vulnerabilities** in web applications by leveraging archived URLs from the Wayback Machine.               |
 | **[XSSGAI](https://github.com/AnonKryptiQuz/XSSGAI)**        | A **first-ever AI-powered XSS (Cross-Site Scripting) payload generator**. Leveraging machine learning and deep learning techniques, it creates novel payloads based on patterns learned from a dataset of real-world XSS attacks. This groundbreaking tool is designed to assist security researchers and ethical hackers in identifying and mitigating potential XSS vulnerabilities by generating diverse and sophisticated attack vectors.              |
+| **[NextSploit](https://github.com/AnonKryptiQuz/NextSploit)**        | A command-line tool designed to **detect and exploit CVE-2025-29927**, a security flaw in **Next.js**.              |
 
 ---
 
