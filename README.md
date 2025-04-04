@@ -1,4 +1,3 @@
-
 # Welcome to AnonKryptiQuz's GitHub!
 
 I am **AnonKryptiQuz**, a passionate Anonymous hacker and cybersecurity enthusiast, proudly part of Anonymous. I specialize in uncovering vulnerabilities, crafting innovative exploits, and dissecting systems to expose their deepest flaws. I thrive on the challenge of peeling back layers of security to reveal what others cannot see.
@@ -15,6 +14,7 @@ As one with Anonymous, I explore the delicate balance of power within the digita
 - **Dissect and analyze systems** to identify hidden flaws, revealing what others cannot see.
 - **Explore the delicate balance of power** in the digital domain by challenging the systems that claim to be unbreakable.
 - **Engaging in hands-on hacking** in my spare time to push my limits and refine my skills.
+- **Build and utilize custom tools** to enhance my hacking capabilities, but I don’t identify as a developer. Hacking is my true craft.
 
 ---
 
