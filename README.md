@@ -60,7 +60,8 @@ An exceptional group of skilled and enigmatic individuals:
 - **[Coffinxp](https://github.com/coffinxp)**  
 - **[HexShad0w](https://github.com/HexShad0w)**  
 - **[1hehaq](https://github.com/1hehaq)**  
-- **[Naho666](https://github.com/Naho666)**  
+- **[Naho666](https://github.com/Naho666)**
+- **[Hghost0x00](https://github.com/Hghost0x00)**
 
 Together, we strive to push boundaries, share knowledge, and inspire the cybersecurity community.
 
