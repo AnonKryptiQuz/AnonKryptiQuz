@@ -40,7 +40,7 @@ Here’s a showcase of some of my most innovative tools:
 | **[XSSGAI](https://github.com/AnonKryptiQuz/XSSGAI)**        | A **first-ever AI-powered XSS (Cross-Site Scripting) payload generator**. Leveraging machine learning and deep learning techniques, it creates novel payloads based on patterns learned from a dataset of real-world XSS attacks. This groundbreaking tool is designed to assist security researchers and ethical hackers in identifying and mitigating potential XSS vulnerabilities by generating diverse and sophisticated attack vectors.              |
 | **[NextSploit](https://github.com/AnonKryptiQuz/NextSploit)**        | A command-line tool designed to **detect and exploit CVE-2025-29927**, a security flaw in **Next.js**.              |
 | **[PolyCaptcha](https://github.com/AnonKryptiQuz/PolyCaptcha)**        | A Flask‑based web application that mimics Google’s image‑based reCAPTCHA flow to demonstrate how attackers can use **visual deception**, **clipboard poisoning**, and **file‑format spoofing** to trick users into downloading and executing **malicious code**.              |
-| **[DataWhiz](https://github.com/AnonKryptiQuz/DataWhiz)**        | A is a Python-based **OSINT tool for retrieving Pakistani mobile and CNIC data**. Built with both **CLI and GUI interfaces**, it was **developed in response to community requests for a tool focused on this region**.              |
+| **[DataWhiz](https://github.com/AnonKryptiQuz/DataWhiz)**        | A Python-based **OSINT tool for retrieving Pakistani mobile and CNIC data**. Built with both **CLI and GUI interfaces**, it was **developed in response to community requests for a tool focused on this region**.              |
 
 ---
 
@@ -77,4 +77,5 @@ Together, we strive to push boundaries, share knowledge, and inspire the cyberse
 ---
 
 > **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
+
 
