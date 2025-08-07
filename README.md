@@ -64,6 +64,8 @@ An exceptional group of skilled and enigmatic individuals:
 - **[1hehaq](https://github.com/1hehaq)**  
 - **[Naho666](https://github.com/Naho666)**
 - **[Hghost0x00](https://github.com/Hghost0x00)**
+- **[Nuknov](https://github.com/Nuknov)**
+- **[PaKnonymous](https://github.com/PaKnonymous)**
 
 Together, we strive to push boundaries, share knowledge, and inspire the cybersecurity community.
 
@@ -77,5 +79,6 @@ Together, we strive to push boundaries, share knowledge, and inspire the cyberse
 ---
 
 > **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
+
 
 
