@@ -51,6 +51,13 @@ A powerful and versatile **multi-vulnerability scanner** designed to detect vari
 - SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
 
+### **[crtmon](https://github.com/coffinxp/crtmon)**
+ A lightweight **Certificate Transparency monitoring tool** that discovers new subdomains in real time.
+- Real-time subdomain discovery from CT logs
+- Discord and Telegram notifications
+- Smart batching with built-in rate limiting
+- Supports single targets, files, and stdin
+
 ### **[DataWhiz](https://github.com/0nsec/DataWhiz)**
 A Python-based **OSINT tool for retrieving Pakistani mobile and CNIC data**.
 - Built with both **CLI and GUI interfaces**
@@ -74,6 +81,7 @@ An exceptional group of skilled and enigmatic individuals:
 - **[Nuknov](https://github.com/Nuknov)**
 - **[PaKnonymous](https://github.com/PaKnonymous)**
 - **[0nsec](https://github.com/0nsec)**
+- **[Anon2Fear](https://github.com/Anon2Fear)**
 
 Together, we strive to push boundaries, share knowledge, and inspire the cybersecurity community.
 
@@ -87,9 +95,3 @@ Together, we strive to push boundaries, share knowledge, and inspire the cyberse
 ---
 
 > **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
-
-
-
-
-
-
