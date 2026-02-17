@@ -67,6 +67,12 @@ A Python-based **OSINT tool for retrieving Pakistani mobile and CNIC data**.
 A tool that scans WordPress websites for the **WordPress Setup Config Vulnerability.** 
 - If exposed, this page indicates an incomplete installation and can be exploited, posing a security risk.
 
+### **[WP-ReconX](https://github.com/Nuknov/WP-ReconX)**
+A powerful WordPress reconnaissance extension designed to 
+- enumerate usernames
+- fingerprint plugins
+- map known vulnerabilities with associated CVE references
+
 ---
 
 ## 🛡️ **The Team**
@@ -95,3 +101,4 @@ Together, we strive to push boundaries, share knowledge, and inspire the cyberse
 ---
 
 > **Disclaimer**: All tools and projects are strictly for **educational purposes** and **security testing** with proper authorization. Misuse is strictly discouraged. Stay ethical!
+
